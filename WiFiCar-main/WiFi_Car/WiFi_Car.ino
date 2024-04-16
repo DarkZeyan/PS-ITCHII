@@ -39,7 +39,6 @@ std::vector<MOTOR_PINS> motorPins =
   {16, 17},  //FRONT_RIGHT_MOTOR
   {18, 19},  //BACK_RIGHT_MOTOR
   {27, 26},  //FRONT_LEFT_MOTOR
-  {25, 33},  //BACK_LEFT_MOTOR   
 };
 
 const char* ssid     = "MyWiFiCar";
